@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Relasi Alfabet</string>
+    <string name="detail_prefix">Cari kata yang dimulai dengan</string>
+    <string name="action_switch_layout">Ganti layout</string>
+    <string name="look_up_word">Cari berdasar alfabet</string>
+    <string name="look_up_words">tampilkan data kata yang diperoleh</string>
+</resources>
